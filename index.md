@@ -1,4 +1,5 @@
 Switch Ball: Privacy Policy
+
 This privacy policy governs your use of the software application (“Switch Ball”) for mobile devices that was created by NickJr. The Application is an offline free-to-play game that is about passing through obstacles. To pass the obstacles, you must switch the color of the ball with the color of the obstacle.
 
 I have not programmed this app to collect any personal data. All data preferences (like scores and etc) is stored only in your device and can be erased by uninstalling the app.
